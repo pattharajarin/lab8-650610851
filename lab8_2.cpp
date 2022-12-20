@@ -31,7 +31,7 @@ int main() {
     cout<<"Fahsai: Sawadee ka...Can you tell me your name?\n";
     cout<<"?????: ";
     getline(cin,name);
-    cout<<"Fahsai: Wow!!! "<<name<<"is a really cool name.\n"
+    cout<<"Fahsai: Wow!!! "<<name<<" is a really cool name.\n"
         <<"Fahsai: I think you are an Engineering student. What is your student ID?\n";
     cout<<name<<": ";
     cin>>id;
